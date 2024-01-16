@@ -1,16 +1,7 @@
-# namer_app
+# Namer App using Flutter Framework
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Simple word pair name generator using Flutter Framework
+-This uses a simple state management system with listener and provider
+-This has no working backend, mainly frontend 
+-This can be used to come up with names for your business, ventures, etc.
+-Names can be liked and added to favourites and saved (temporarily as no backend)
